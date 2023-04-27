@@ -1,5 +1,5 @@
 # webfortune
 
-### webfortune will Require Docker
+- webfortune will Require Docker
 https://www.docker.com/
-### to set the container up: 
+- to set the container up: 
