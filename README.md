@@ -5,6 +5,6 @@
 How to set up Docker Container:
 
 - Create and run a container from an image, with a custom name:
-"docker run --name <container_name> <image_name>"
+  docker run --name <container_name> <image_name>
 
 
