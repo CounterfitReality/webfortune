@@ -1,3 +1,3 @@
-#--- webfortune ---
+# webfortune
 
-## Usage
+
